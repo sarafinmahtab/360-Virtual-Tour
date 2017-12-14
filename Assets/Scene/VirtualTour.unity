@@ -298,7 +298,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1532649b438b94b40b56a51320b47fb2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameObjectForCube: {fileID: 177758, guid: 970dd4b9371394fb4890965f608d46fd, type: 2}
+  gameObjectForCube: {fileID: 1912957699}
+  gameObjectForCube2: {fileID: 1322427248}
 --- !u!1 &298498519
 GameObject:
   m_ObjectHideFlags: 0
