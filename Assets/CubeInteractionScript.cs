@@ -25,10 +25,9 @@ public class CubeInteractionScript : MonoBehaviour {
 //		transform.position = new Vector3 (300, 0, 0);
 		Debug.Log ("Pointer Down");
 
-		tempPosi.x = 300f;
+		tempPosi.x = 7f;
 
 		gameObjectForCube.transform.position = tempPosi;
 		gameObjectForCube2.transform.position = tempPosi2;
-		transform.position = tempPosi;
 	}
 }

@@ -588,12 +588,15 @@ PlayerSettings:
       daydreamIconForeground: {fileID: 0}
       daydreamIconBackground: {fileID: 0}
   cloudServicesEnabled:
+    Build: 0
     Collab: 1
+    ErrorHub: 0
+    Hub: 0
     UNet: 1
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
-  cloudProjectId: 245cc63e-1d70-40a5-9372-56fd1423fe64
-  projectName: Virtual Tour (1)
+  cloudProjectId: 06fd1f4d-d0d1-491d-ad4c-8e9a1bce2d4c
+  projectName: 360 VR Tour
   organizationId: sarafinmahtab
   cloudEnabled: 0
   enableNewInputSystem: 0
